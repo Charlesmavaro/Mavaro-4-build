@@ -14,7 +14,7 @@
         <h2>Professional Photography Services</h2>
     </header>
 
-    <nav> aria-label="Main navigation">
+    <nav> 
         <ul>
             <li><a href=" #About">About Us</a></li>
             <li><a href="#More information">More Information</a></li>
@@ -29,7 +29,7 @@
                 creating stunning images that will last a lifetime.</p>
 
 
-            <img src="/Users/charlesmavaro/Downloads/Image/photography_SET.jpeg" width="400" height="400" alt="Photo of a -Photo shoot- setting with cameras and lighting equipment
+            <img src="image/photo_equipment.jpg" width="400" height="400" alt="Photo of a -Photo shoot- setting with cameras and lighting equipment
         
             
             
