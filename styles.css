@@ -2,9 +2,11 @@
 
 nav ul {
     display: flex;
+    flex-wrap: wrap;
     list-style-type: none;
     justify-content: space-evenly;
     padding: 1em;
+    gap: 0.5rem;
 }
 
 nav a {
@@ -22,7 +24,7 @@ nav a:hover {
 }
 
 html {
-    font-size: 1em;
+    font-size: 1rem;
 }
 
 body {
@@ -38,7 +40,7 @@ body {
 }
 
 h1 {
-    font-size: 2rem;
+    font-size: 4rem;
     margin: 0;
 }
 
@@ -58,9 +60,11 @@ h1 {
 }
 
 @media screen and (min-width: 600px) {
-    body {
+    .wrapper {
         display: grid;
         grid-template-columns: 1fr 1fr;
-        background-color: blue;
+        gap: 1rem;
+        background-color: pink;
     }
+
 }
